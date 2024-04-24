@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/KathirvelPortfolio/static/css/main.19b83543.css",
+    "main.js": "/KathirvelPortfolio/static/js/main.3192d9d3.js",
+    "static/js/453.cd38c109.chunk.js": "/KathirvelPortfolio/static/js/453.cd38c109.chunk.js",
+    "static/media/skv.pdf": "/KathirvelPortfolio/static/media/skv.a1a861a172301dbc5ab5.pdf",
+    "static/media/Kathir.jpg": "/KathirvelPortfolio/static/media/Kathir.b6a1c8d3adc96784d151.jpg",
+    "index.html": "/KathirvelPortfolio/index.html",
+    "main.19b83543.css.map": "/KathirvelPortfolio/static/css/main.19b83543.css.map",
+    "main.3192d9d3.js.map": "/KathirvelPortfolio/static/js/main.3192d9d3.js.map",
+    "453.cd38c109.chunk.js.map": "/KathirvelPortfolio/static/js/453.cd38c109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19b83543.css",
+    "static/js/main.3192d9d3.js"
+  ]
+}
