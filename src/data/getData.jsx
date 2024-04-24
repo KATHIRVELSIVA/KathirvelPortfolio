@@ -1,4 +1,3 @@
-
 const getData = () => {
     fetch('data.json'
         , {
@@ -9,11 +8,12 @@ const getData = () => {
         }
     )
         .then(function (response) {
-            console.log(response);
+            // console.log(response);
             return response.json();
         })
         .then(function (myJson) {
             console.log(myJson);
+            return myJson;
         });
 }
 export default getData;
